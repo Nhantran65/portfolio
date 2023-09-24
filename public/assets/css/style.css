@@ -752,7 +752,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: cadetblue;
 }
 
 .services .description {
@@ -869,7 +869,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: cadetblue;
   float: left;
   width: 44px;
   height: 44px;
@@ -893,7 +893,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: cadetblue;
 }
 
 .contact .info .email p {
@@ -920,7 +920,7 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: cadetblue;
   color: #fff;
 }
 
@@ -1024,7 +1024,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #37b3ed;
+  background: cadetblue;
 }
 
 @keyframes animate-loading {
