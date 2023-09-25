@@ -21,8 +21,9 @@ body {
     transform: scale(0.9); 
   }
   
-  .list-icons {
+  .list-icons .list-inline-item img{
         font-size: 8rem;
+        border-radius: 10px;
     }
     .list-icons .list-inline-item i:hover {
       color: cadetblue; }
@@ -383,7 +384,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: cadetblue;
   line-height: 0;
 }
 
@@ -439,7 +440,7 @@ section {
 }
 
 .facts .count-box a:hover {
-  color: #1f5297;
+  color: cadetblue;
 }
 
 /*--------------------------------------------------------------
@@ -493,7 +494,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid cadetblue;
   position: relative;
 }
 
@@ -537,7 +538,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid cadetblue;
 }
 
 /*--------------------------------------------------------------
@@ -1120,6 +1121,6 @@ section {
 .col-lg-6.aos-init.aos-animate {
   width: 100%;
 }
-section#resume {
+section {
   background-color: azure;
 }
